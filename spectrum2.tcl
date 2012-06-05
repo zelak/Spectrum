@@ -4,7 +4,7 @@ exec wish8.4 "$0" "$@"
 
 set fftsize 128
 
-package require -exact snack 2.2
+package require snack 
 
 snack::sound s
 
